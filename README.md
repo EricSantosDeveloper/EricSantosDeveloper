@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A040F5&size=28&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Eric+Santos;Eu+moro+em+Ipojuca+-+PE,+Brasil;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 ### Linguagens:
-### None
+### ㅤ
 
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
