@@ -16,3 +16,4 @@
 ### Estudando:
 <a href="https://git-scm.com">![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)</a>&nbsp;
 <a href="https://github.com">![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)</a>&nbsp;
+<a href="https://pt.wikipedia.org/wiki/JavaScript">![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)</a>&nbsp;
