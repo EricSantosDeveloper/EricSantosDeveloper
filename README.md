@@ -2,7 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A040F5&size=28&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Eric+Santos;Eu+moro+em+Recife+-+PE,+Brasil;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
-‎ 
 ##
 ### Linguagens:
 <a href="https://en.wikipedia.org/wiki/HTML">![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)</a>&nbsp;
